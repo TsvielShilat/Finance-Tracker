@@ -1,0 +1,12 @@
+# Personal financial data - never commit
+data/
+output/
+exports/
+backups/
+*.xls
+*.xlsx
+*.csv
+!config/categories.csv
+!config/rules.csv
+__pycache__/
+.venv/
